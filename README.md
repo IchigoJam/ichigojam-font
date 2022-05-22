@@ -1,6 +1,6 @@
 # ichigojam-font
 
-[IchigoJam font JSON](https://ichigojam.github.io/ichigojam-font/ichigojam-font.json)
+[IchigoJam font JSON](https://ichigojam.github.io/ichigojam-font/ichigojam-font.json) (CC BY [IchigoJam](https://ichigojam.net/))
 
 ## sample app
 
